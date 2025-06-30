@@ -1,9 +1,6 @@
 <h1 align="center">Hey there, come have a peek!</h1>
 
 <p align="center">
-  <a href="https://github.com/DavidReto">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" height="40" />
-  </a>
   <a href="https://www.instagram.com/_david_reto_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="40" />
   </a>
